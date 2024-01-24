@@ -1,5 +1,5 @@
 # The name of the job is what will display on the GitHub repository in the Actions tab.
-name: First Workflow
+name: First Workflow for TechExcel class
 
 # The 'on' section tells GitHub under what conditions we want to run this workflow.
 # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
